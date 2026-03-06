@@ -39,4 +39,4 @@ Welcome to my digital workshop! I'm a developer who sculpts elegant solutions fr
 
 ---
 
-*Game on to the future! Keep coding, keep evolving!* ⚡
+*Craft on to the future! Keep coding, keep evolving!* ⚡
