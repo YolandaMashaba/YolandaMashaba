@@ -24,9 +24,8 @@ Welcome to my digital workshop! I'm a developer who sculpts elegant solutions fr
 
 
 ## My Contribution Graph
-
-![Galaga Graph Dark Mode](https://githubusercontent.com)
-![Galaga Graph Light Mode](https://githubusercontent.com)
+![Galaga Graph Dark Mode](https://jsdelivr.net)
+![Galaga Graph Light Mode](https://jsdelivr.net)
 
 
 
