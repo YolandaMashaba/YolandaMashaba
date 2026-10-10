@@ -1,42 +1,37 @@
-# 🎨 Nkoka Yolanda Mashaba: Digital Architect & Code Artisan
+## 💻 Tech Stack & Cyber Arsenal
 
-Welcome to my digital workshop! I'm a developer who sculpts elegant solutions from complex problems, blending creativity with technical precision.
-
-**Currently Crafting:** Next-gen applications with modern frameworks  
-**Core Philosophy:** Write code that's as readable as poetry and as robust as architecture  
-**Growing Through:** Continuous learning and collaborative innovation  
-
----
-
-## 🚀 **My Tech Stack**
-
-### 🔵 **Frontend Frameworks** 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+###Frontend & UI Engines
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🟡 **Programming Languages** 
+### ⚡ Execution Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🟢 **Backend & Tools** 
+### 🛠️ Core Infrastructure & Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📊 **Tech Stack Stats** 
-![Full Stack](https://img.shields.io/badge/Stack-Full_Stack-important)
-![Frontend](https://img.shields.io/badge/Frontend-Expert-blue)
-![Backend](https://img.shields.io/badge/Backend-Proficient-green)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
 
-## 🌟 **Current Missions**
-![Mission 1](https://img.shields.io/badge/Mission-Building_Future_Tech-yellow)
-![Mission 2](https://img.shields.io/badge/Quest-Leveling_Up_Architecture-orange)
-![Active](https://img.shields.io/badge/Status-3_Active_Projects-success)
+##System Diagnostics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="Hacker Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-*Craft on to the future! Keep coding, keep evolving!* ⚡
+##Active Operations & Missions
+
+```gcode
+> MISSION_01 :: Building Future Tech Infrastructure [IN PROGRESS]
+> MISSION_02 :: Leveling Up Cyber Architecture       [ACTIVE]
+> MISSION_03 :: Deploying High-Velocity Systems     [RUNNING]
