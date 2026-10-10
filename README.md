@@ -22,8 +22,6 @@ Welcome to my digital workshop! I'm a developer who sculpts elegant solutions fr
 ![](https://streak-stats.demolab.com/?user=YolandaMashaba&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YolandaMashaba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## My Contribution Graph
 <!-- galaga -->
 ## My Contribution Graph
 <picture>
