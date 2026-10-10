@@ -1,9 +1,18 @@
-# 💫 About Me:
-Nkoka Yolanda Mashaba: Digital Architect & Code Artisan
-Welcome to my digital workshop! I'm a developer who sculpts elegant solutions from complex problems, blending creativity with technical precision.
-**Currently Crafting:** Next-gen applications with modern frameworks 
-**Core Philosophy:** Write code that's as readable as poetry and as robust as architecture  
-**Growing Through:** Continuous learning and collaborative innovation 
+<h1 align="center">🎮 Player Stats & Bio</h1>
+
+<h3 align="center">Nkoka Yolanda Mashaba | End-to-End System Crafter & Code Sorcerer</h3>
+
+<p align="center">
+  <em>Welcome to my dev sandbox! I'm a full-stack dev who builds complete web apps, pairing intuitive user interfaces with fast, reliable backend logic.</em>
+</p>
+
+---
+
+<p align="center">
+  <b>⚔️ Currently Building:</b> Next-gen builds with modern frameworks<br>
+  <b>📜 Core Guild Code:</b> Write code as clean as a speedrun and as tanky as a raid boss<br>
+  <b>⬆️ Leveling Up Through:</b> Continuous XP farming and multiplayer co-op innovation
+</p>
 
 - 👨‍💻 All of my projects are available at [https://nkoka-mashaba-dev.vercel.app/](https://nkoka-mashaba-dev.vercel.app/)
 
