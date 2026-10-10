@@ -1,8 +1,9 @@
 # 💫 About Me:
-Nkoka Yolanda Mashaba: Digital Architect & Code Artisan<br><br><br><br>Welcome to my digital workshop! I'm a developer who sculpts elegant solutions from complex problems, blending creativity with technical precision.<br><br><br><br>**Currently Crafting:** Next-gen applications with modern frameworks  <br><br>**Core Philosophy:** Write code that's as readable as poetry and as robust as architecture  <br><br>**Growing Through:** Continuous learning and collaborative innovation  <br><br>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yolandamashaba" alt="yolandamashaba" /></a> </p>
+Nkoka Yolanda Mashaba: Digital Architect & Code Artisan
+Welcome to my digital workshop! I'm a developer who sculpts elegant solutions from complex problems, blending creativity with technical precision.
+**Currently Crafting:** Next-gen applications with modern frameworks 
+**Core Philosophy:** Write code that's as readable as poetry and as robust as architecture  
+**Growing Through:** Continuous learning and collaborative innovation 
 
 - 👨‍💻 All of my projects are available at [https://nkoka-mashaba-dev.vercel.app/](https://nkoka-mashaba-dev.vercel.app/)
 
