@@ -25,8 +25,8 @@ Welcome to my digital workshop! I'm a developer who sculpts elegant solutions fr
 
 ## My Contribution Graph
 
-![Pacman Graph Dark Mode](https://githubusercontent.com)
-![Pacman Graph Light Mode](https://githubusercontent.com)
+![Galaga Graph Dark Mode](https://githubusercontent.com)
+![Galaga Graph Light Mode](https://githubusercontent.com)
 
 
 
