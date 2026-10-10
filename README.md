@@ -23,6 +23,13 @@ Welcome to my digital workshop! I'm a developer who sculpts elegant solutions fr
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YolandaMashaba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=YolandaMashaba&icon=9&color=3)](https://visitcount.itsvg.in)
+## My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YolandaMashaba]/[YolandaMashaba]/output/[galaga]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YolandaMashaba]/[YolandaMashaba]/output/[galaga]-contribution-graph.svg">
+    <img alt="[galaga] contribution graph" src="https://raw.githubusercontent.com/[YolandaMashaba]/[YolandaMashaba]/output/[game-name]-contribution-graph.svg">
+</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
