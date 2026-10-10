@@ -24,11 +24,10 @@ Welcome to my digital workshop! I'm a developer who sculpts elegant solutions fr
 
 
 ## My Contribution Graph
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="pacman contribution graph" src="https://githubusercontent.com">
-</picture>
+
+![Pacman Graph Dark Mode](https://githubusercontent.com)
+![Pacman Graph Light Mode](https://githubusercontent.com)
+
 
 
 
